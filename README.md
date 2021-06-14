@@ -6,3 +6,4 @@ A collection of algorithm challenges and my personal solutions.
 - [Fizzbuzz](./fizzbuzz)
 - [Largest_number](./largest_number)
 - [Solve_me_first](./solve_me_first)
+- [Staircase](./staircase)

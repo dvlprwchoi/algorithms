@@ -1,3 +1,4 @@
+Source: [Staircase@Hackerrank](https://www.hackerrank.com/challenges/staircase/problem)
 Staircase detail
 
 This is a staircase of size n = 4:
